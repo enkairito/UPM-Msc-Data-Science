@@ -1,0 +1,12 @@
+name: practical_work_assignment_2_-_r_visualization
+title:
+username: datavisualization-group13
+account: datavisualization-group13
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10865430
+bundleId: 8114698
+url: https://datavisualization-group13.shinyapps.io/practical_work_assignment_2_-_r_visualization/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
